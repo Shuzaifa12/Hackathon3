@@ -9,7 +9,7 @@ import I6 from '@/app/assets/dashboard/D6.png';
 import I7 from '@/app/assets/dashboard/D7.png';
 import I8 from '@/app/assets/dashboard/D8.png';
 import I9 from '@/app/assets/dashboard/D9.png';
-import I10 from '@/app/assets/dashboard/d10.png';
+import I10 from '@/app/assets/dashboard/D10.png';
 import I11 from '@/app/assets/dashboard/D11.png';
 import I12 from '@/app/assets/dashboard/D12.png';
 import I13 from '@/app/assets/dashboard/Look.png';
